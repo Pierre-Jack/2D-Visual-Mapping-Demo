@@ -1,5 +1,5 @@
 # 2D-Visual-Mapping-Demo
-This code -written mostly with the assistance of AI- is a proof of concept on the idea of 2D visual mapping using camera feed by comparing successive images, similar to the concept of the computer mouse
+This code -mostly AI generated (GitHub Copilot)- is a proof of concept on the idea of 2D visual mapping using camera feed by comparing successive images, similar to the concept of the computer mouse
 
 ![](https://github.com/Pierre-Jack/2D-Visual-Mapping-Demo/blob/main/demo.gif)
 
